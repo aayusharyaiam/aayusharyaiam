@@ -1,38 +1,85 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+# Hi 👋, I'm Aayush Arya
 
-<h1 align="center">Hi 👋, I'm Aayush Arya</h1>
-<h3 align="center">Front-End Developer | Hackathon Enthusiast | Bringing Ideas to Life through Code</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayusharya28&label=Profile%20views&color=0e75b6&style=flat" alt="aayusharya28" /> </p>
-
-- 🔭 I’m currently working on [Technika Website](https://technikabitp.com/)
-
-- 🌱 I’m currently learning **ReactJS and NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AayushArya28?tab=repositories](https://github.com/AayushArya28?tab=repositories)
-
-- 💬 Ask me about **Tailwind CSS and Javascript**
-
-- 📫 How to reach me **aayush10738@gmail.com**
-
-- ⚡ Fun fact **I’m a code enthusiast who finds creative ideas in unexpected places – from hackathons to the latest series I’m watching!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aayusharyaiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayusharyaiam" height="30" width="40" /></a>
-<a href="https://fb.com/aayush.arya.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayush.arya.980" height="30" width="40" /></a>
-<a href="https://instagram.com/aayusharya_i_am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayusharya_i_am" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aayusharya_i_am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayusharya_i_am" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aayush10738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aayush10738" height="30" width="40" /></a>
-<a href="https://discord.gg/aayusharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aayusharya" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://aayusharya.tech">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:35d0ba&height=180&section=header&text=Aayush%20Arya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Aayush Arya portfolio banner" width="850" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Full-Stack Developer · Frontend Engineer · Hackathon Builder</strong><br />
+  Building interactive, secure, and scalable web experiences with motion and precision.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusharya28&show_icons=true&locale=en&layout=compact" alt="aayusharya28" /></p>
+<p align="center">
+  <a href="https://aayusharya.tech">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/aayusharyaiam/">LinkedIn</a> ·
+  <a href="mailto:aayush10738@gmail.com">Email</a> ·
+  <a href="https://leetcode.com/u/aayusharya_i_am/">LeetCode</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayusharya28&show_icons=true&locale=en" alt="aayusharya28" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayusharyaiam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-Patna%2C%20India-0e75b6" alt="Based in Patna, India" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-2ea44f" alt="Open to collaborations" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayusharya28&" alt="aayusharya28" /></p>
+## About me
+
+I’m a B.Tech ECE student at **BIT Mesra, Patna**, focused on frontend engineering, full-stack product development, and AI-enabled experiences. I enjoy turning ambitious ideas into fast, expressive interfaces and shipping them with a team.
+
+- 🔭 Currently building **Technika'26**, the annual tech fest platform at BIT Mesra.
+- 🌱 Learning deeper **React, Node.js, Go, system design, and AI security**.
+- 🧩 Ask me about **React, Tailwind CSS, JavaScript, GSAP, and frontend architecture**.
+- 🏆 1st Runner-Up in a cybersecurity hackathon; multiple 2nd-place hackathon finishes.
+- 🤝 Open to full-time opportunities, freelance projects, and open-source collaborations.
+- 📫 Reach me at **[aayush10738@gmail.com](mailto:aayush10738@gmail.com)**.
+
+## Selected work
+
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [Technika'26](https://technikna-2-k25.vercel.app/) | Official BIT Mesra tech-fest experience with event discovery, registration flows, and motion-led UI. | React · Tailwind · GSAP |
+| [Prakrida'26](https://github.com/ShiftainAhmad/Prakida_Demon) | Official sports-fest platform with a responsive experience and content flow. | React · Node.js · Express |
+| [IEEE BIT Patna](https://github.com/aayusharyaiam/IEEE-web) | Student-branch website for events, members, gallery, and community visibility. | React · Vite · Tailwind |
+| [SENTINEL](https://github.com/aayusharyaiam/sentinal-ai-frontend) | Agentic AI security concept for detecting prompt abuse and multi-step attacks. | React · AI security |
+| [SafeTourist](https://commit-chaos-frontend.vercel.app/) | Privacy-first tourist safety system with verification, geofencing, alerts, and live status. | React · Firebase · Tailwind |
+| [VerifyAI](https://github.com/aayusharyaiam/Xordium) | AI-assisted news verification interface for source credibility and trust signals. | React · Vite · Tailwind |
+
+👉 Explore the full case studies and process on **[aayusharya.tech](https://aayusharya.tech)**.
+
+## What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,gsap,nodejs,express,go,python,cpp,mongodb,mysql,firebase,git,docker&perline=10" alt="Technologies: React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind, GSAP, Node.js, Express, Go, Python, C++, MongoDB, MySQL, Firebase, Git, Docker" />
+</p>
+
+## Experience and community
+
+- **Co-Head Web Developer — Technika'26**: leading design and technical delivery for the official tech-fest platform.
+- **Co-Head Web Developer — Prakrida'26**: developed and managed the official sports-fest web presence.
+- **Co Web Developer — IEEE Student Branch BIT Patna**: helping build and maintain the branch platform and digital presence.
+- Active participant in **IGNITE Club**, **DIVYA BITP**, IEEE activities, GDG events, and open-source initiatives.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayusharyaiam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aayush Arya's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayusharyaiam&layout=compact&hide_border=true&theme=transparent" alt="Aayush Arya's top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aayusharyaiam&hide_border=true&theme=transparent" alt="Aayush Arya's contribution streak" />
+</p>
+
+## Let’s connect
+
+<p>
+  <a href="https://github.com/aayusharyaiam">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/aayusharyaiam/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/aayusharya_i_am/">LeetCode</a> ·
+  <a href="https://www.instagram.com/aayusharya_i_am">Instagram</a> ·
+  <a href="mailto:aayush10738@gmail.com">Email</a>
+</p>
+
+<p align="center"><em>“Build with curiosity. Ship with intent.”</em></p>
